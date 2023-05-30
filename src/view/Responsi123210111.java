@@ -16,6 +16,9 @@ public class Responsi123210111 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        PerpusFrame frame1 = new PerpusFrame();
+        frame1.setVisible(true);
+        frame1.setLocationRelativeTo(null);
     }
     
 }
